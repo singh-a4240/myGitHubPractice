@@ -35,14 +35,14 @@ public class myAppTester {
 	   }
 	
 	//this is a new method
-	public static void WordCount(String sentenceIs) {
-	String eachWordIs=sentenceIs.split(' ');
-	System.out.println(eachWordIs);
-	for(int x=1;eachWordIs>0;x++) {
-	
-		return x; 
+		public static void WordCount(String sentenceIs) {
+		String eachWordIs=sentenceIs.split(' ');
+		System.out.println(eachWordIs);
+		for(int x=1;eachWordIs>0;x++) {
 		
-	}
+			return x; 
+			
+		}
 	
 	}
 
