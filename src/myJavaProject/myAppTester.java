@@ -16,6 +16,8 @@ public class myAppTester {
 	  System.out.print("Reverse of the input number is:");
 	  reverseMethod(n);
 	  System.out.println();
+	  System.out.println("Hello from James 300319276");
+	  System.out.println("Dai-Dung Nguyen CSIS 3275 - 002");
 
 	  // add a line below to call your myTestMethod from here  then remove the block comment symbols  
 
