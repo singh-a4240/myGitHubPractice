@@ -24,7 +24,7 @@ public class myAppTester {
 
 
 	  // add a line below to call your myTestMethod from here  then remove the block comment symbols  
-
+	  myTestMethod();
 	}
 	
 	//This is a method to reverse the number by recursion
@@ -52,14 +52,14 @@ public class myAppTester {
 	}
 
 
-	   /* 
-	       add your test method in this space then remove the block comment symbols
-	       public static void myTestMethod(...){
+	   
+	   //    add your test method in this space then remove the block comment symbols
+	       public static void myTestMethod(){
 
-            
+            System.out.println("This is my test method. ");
 
 		   }
 	 
-	   */
+	   
 
 }
