@@ -17,6 +17,12 @@ public class myAppTester {
 	  reverseMethod(n);
 	  System.out.println();
 
+	  wordCount("Reverse of the input number is:");
+
+	  System.out.println("Hello from James 300319276");
+	  System.out.println("Dai-Dung Nguyen CSIS 3275 - 002");
+
+
 	  // add a line below to call your myTestMethod from here  then remove the block comment symbols  
 
 	}
@@ -32,6 +38,18 @@ public class myAppTester {
 	           reverseMethod(num/10);     // recursive call
 	       }
 	   }
+	
+	//this is a new method
+		public static void WordCount(String sentenceIs) {
+		String eachWordIs=sentenceIs.split(' ');
+		System.out.println(eachWordIs);
+		for(int x=1;eachWordIs>0;x++) {
+		
+			return x; 
+			
+		}
+	
+	}
 
 
 	   /* 
