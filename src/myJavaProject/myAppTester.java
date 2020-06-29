@@ -34,17 +34,6 @@ public class myAppTester {
 	       }
 	   }
 
-
-	       public static void myTestMethod(){
-
-            String name="";
-            
-            name="Lovepreet Singh";
-            
-            System.out.println("My name is + " name);
-
-		   }
-	 
-	   
+   
 
 }

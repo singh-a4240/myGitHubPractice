@@ -1,11 +1,20 @@
-<<<<<<< HEAD
 humaimidi-m1234    Instructor checked
-
 singh-l0715        Student
-=======
-humaimidi-m1234
-
-singh-l0715
- 
-student
->>>>>>> 1237e2f785c71a2290e12c38c0a750b5bf1237bf
+Zioq student
+correasuleiman-v5653 student
+huang-c0304        Student
+saini-h7637	       Student
+huang-c0304        Student
+Nguyen-D9276	     Student
+mariani-m5430      Student
+huang-c0304        Student
+deoliveira-r5192   student
+kour-p4066 	       student
+kharod-g9185	      student
+deoliveira-r5192   	student
+to-t8132		Student
+Talebi-T9630            Student
+Bandyopadhyay-S3041     student
+wei-m0626               student
+matianiu-a9513          Student
+sharma-r7681	          student
