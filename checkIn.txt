@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 humaimidi-m1234    Instructor checked
 
 singh-l0715        Student
+=======
+humaimidi-m1234
+
+singh-l0715
+ 
+student
+>>>>>>> 1237e2f785c71a2290e12c38c0a750b5bf1237bf

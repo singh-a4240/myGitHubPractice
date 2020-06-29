@@ -13,7 +13,7 @@ public class myAppTester {
 	  System.out.println("Hello Software Engineering World");
 	  System.out.println("Input your number and press enter: ");
 	  n = input.nextInt();
-	  System.out.print("Reverse of the input number is:");
+	  System.out.print("Reverse of the input number is: ");
 	  reverseMethod(n);
 	  System.out.println();
 
@@ -23,6 +23,7 @@ public class myAppTester {
 	
 	//This is a method to reverse the number by recursion
 	public static void reverseMethod(int num) {
+		
 	       if (num < 10) {
 		   System.out.println(num);
 		   return;
@@ -34,14 +35,16 @@ public class myAppTester {
 	   }
 
 
-	   /* 
-	       add your test method in this space then remove the block comment symbols
-	       public static void myTestMethod(...){
+	       public static void myTestMethod(){
 
+            String name="";
             
+            name="Lovepreet Singh";
+            
+            System.out.println("My name is + " name);
 
 		   }
 	 
-	   */
+	   
 
 }
