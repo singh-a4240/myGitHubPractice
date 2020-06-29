@@ -3,6 +3,8 @@ singh-l0715        Student
 Zioq student
 correasuleiman-v5653 student
 huang-c0304        Student
+singh-t5304        Student
+huang-c0304        Student
 saini-h7637	       Student
 huang-c0304        Student
 Nguyen-D9276	     Student
